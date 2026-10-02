@@ -1,7 +1,5 @@
-# Spotter legal and support
+# Spotter: moved
 
-Public support, privacy, and terms pages for the Spotter app by PETALFORM LLC.
-
-- `/` — support
-- `/privacy/` — privacy policy
-- `/terms/` — terms of use
+Spotter's privacy policy, terms and support pages now live at **https://petalformllc.com/apps/spotter/**.
+Every page of this GitHub Pages site redirects to its new address, so old links keep working.
+Edit the documents in the `petalformllc-site` repo (`content/legal/spotter/`), not here.
